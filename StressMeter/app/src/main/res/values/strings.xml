@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">StressMeter_Raunak</string>
+
+    <!-- Strings needed for navigation drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_results">Results</string>
+    <string name="navigation_drawer_stress_meter">StressMeter</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings needed for ImageRequestFragment -->
+    <string name="image_request_message">Touch the image that best captures how stressed you feel right now</string>
+    <string name="more_images">MORE IMAGES</string>
+
+    <!-- Strings needed for ImageResponseActivity -->
+    <string name="cancel_image">CANCEL</string>
+    <string name="submit_image">SUBMIT</string>
+
+    <!-- Strings needed for VisualizationFragment -->
+    <string name="stress_graph_message">A graph showing your stress levels</string>
+    <string name="summary_results_message">Summary of Results</string>
+    <string name="time">Time</string>
+    <string name="stress">Stress</string>
+
+</resources>
